@@ -1,0 +1,26 @@
+body {
+    font: 15pt Arial;
+    text-align: center;
+    background-image: linear-gradient(to right, #000000, #062540);
+    color: white;
+}
+a {
+    color: rgb(36, 216, 248);
+    text-shadow: rgb(14, 88, 101);
+}
+img {
+    border-radius: 40px;
+}
+p#alerta {
+    font-size: small;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+p#horas {
+    text-align: right;
+    height: 0px;
+    width: 1600px;
+}
+h1 {
+    line-height: 0px;
+}
